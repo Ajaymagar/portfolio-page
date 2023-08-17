@@ -20,7 +20,7 @@ const About = () => {
                     gaming and fintech.
                 </p>
                 <p>
-                    Please feel free to connect with me on <a>LinkedIn</a> or reach out to me on Twitter.For any direct inquiries,
+                    Please feel free to connect with me on <a href='https://www.linkedin.com/in/ajay-magar/'>LinkedIn</a> or reach out to me on Twitter. For any direct inquiries,
                     you can email me at magarajay538@gmail.com
                 </p>
             </div>
