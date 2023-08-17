@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import pic from '../assets/prof-pic.png'
+import pic from '../assets/ajay.jpg'
 import Navbar from './Navbar'
 import Footer from './Footer'
 
