@@ -1,10 +1,10 @@
 import React from 'react'
 import Navbar from '../../Navbar'
 import Footer from '../../Footer'
-import imgOne from '../../../assets/7S3Leaking/one.jpg'
-import imgTwo from '../../../assets/7S3Leaking/two.jpg'
-import imgThree from '../../../assets/7S3Leaking/three.jpg'
-import imgFour from '../../../assets/7S3Leaking/four.jpg'
+import imgOne from '../../../assets/7S3Leaking/one.png'
+import imgTwo from '../../../assets/7S3Leaking/two.png'
+import imgThree from '../../../assets/7S3Leaking/three.png'
+import imgFour from '../../../assets/7S3Leaking/four.png'
 
 const S3Leaking = () => {
   return (
