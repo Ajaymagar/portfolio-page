@@ -20,6 +20,9 @@ const About = () => {
                     Hey there, I'm Ajay Magar.I am Experienced Seurity Engineer, skilled in Penetration Testing, VAPT,
                     Web and Mobile Security. Secured over 100+ Application from variety of industries including e-commerce,
                     gaming and fintech.
+
+                    Computer Science , code ,  Design , Travel.
+
                 </p>
                 <p>
                     Please feel free to connect with me on <a href='https://www.linkedin.com/in/ajay-magar/'>LinkedIn</a> or reach out to me on Twitter. For any direct inquiries,
